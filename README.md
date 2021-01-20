@@ -4,7 +4,7 @@ B-Tree와 B+Tree 과제를 진행했습니다. (210107~210114)
 
 1. B-Tree는 Introduction to Algorithms 책에 있는 의사코드를 기반으로 아래와 같이 팀원들과 흐름을 정리하고 손코딩을 진행해봤다.
 개념과 c언어 모두 처음 접해본 상태라서 정말 많은 시간이 들었다.
- ![initial](https://media.vlpt.us/images/gojaegaebal/post/1a0908cf-cf07-4a22-bd7f-c3e28fcedb8e/image.png)
+ <center><img src = "https://media.vlpt.us/images/gojaegaebal/post/1a0908cf-cf07-4a22-bd7f-c3e28fcedb8e/image.png" width=50% height = 30%)
  
  ![image2](https://user-images.githubusercontent.com/72333462/105198929-8aa65f00-5b81-11eb-9974-dcb54c735e12.png)
 
